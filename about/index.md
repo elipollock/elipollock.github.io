@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-![Chillin' in Boston]('assets/img/charles_sunset.jpg')
+![Chillin' in Boston](/assets/img/charles_sunset.jpg)
 
 
 ## Bio
