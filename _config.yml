@@ -4,7 +4,7 @@ bio:                'MIT grad student studying computational neuroscience'
 # description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/personal_avatar.jpg'
+logo:               'assets/img/personal_avatar.png'
 background:         'assets/img/landscape.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
