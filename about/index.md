@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-![Chillin' in Boston](https://github.com/elipollock/elipollock.github.io/tree/master/assets/img/charles_sunset.jpg)
+![Chillin' in Boston](/assets/img/charles_sunset.jpg)
 
 
 ## Bio
