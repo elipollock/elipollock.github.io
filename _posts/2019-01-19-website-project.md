@@ -44,7 +44,7 @@ As I understand it, you need your Domain Name System (DNS) provider and GitHub P
 
 All you have to do is go to the "DNS" page on the sidebar, scroll down to "Custom resource records," and fill it out like the picture below. Be sure to use the same IP address, which points to GitHub's servers. I had a problem with using an outdated IP address that I found on another blog post, so refer to the [troubleshooting page](https://help.github.com/articles/troubleshooting-custom-domains/) if there's an error with that.
 
-![Domain setup](https://github.com/elipollock/elipollock.github.io/blob/master/assets/img/project_post/domain_setup.PNG "Easy peasy") 
+![Domain setup](/assets/img/project_post/domain_setup.PNG "Easy peasy") 
 
 Then, in the "Settings" under your GitHub repo, go to the section called "GitHub Pages". There should be a "Custom Domain" option, where you should put in something like www.elibpollock.com (which is my domain name). This should automatically create a file called CNAME in your main repo directory. If that's not there for whatever reason, you should create that file and put the domain name in there as well. In your options, be sure to also enable HTTPS, which is related to the level of security on your site. Otherwise, your browser won't trust your website and might try to block it!
 
