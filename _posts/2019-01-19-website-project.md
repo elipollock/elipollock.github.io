@@ -35,10 +35,18 @@ For the moment, don't worry about downloading Jekyll to your local machine. A go
 1) You can use the Jekyll theme chooser on GitHub. By going into your repo settings, you can choose from a small number of themes. This is very easy, but you still have to customize it with your content. Additionally, your choices are very limited, so you might not find a theme that suits your needs. I decided not to go with this option.
 2) You can use an open-source [Jekyll theme](http://jekyllthemes.org/), made by some friendly stranger! There are tons of themes on the site I linked to there, so you're bound to find something right for you. I went with the [Moon theme](https://github.com/TaylanTatli/Moon).
 
-Many of the custom themes have instructions for how to customize them for your own use. Most involve just copying the repository into your own website and editing all of the relevant content and configuration files. There are also some instructions on GitHub for customizing your themes by overriding specific files, but this seems to require knowing how to use Jekyll and understanding which files to change. If you're a noob like me, it's probably best to just download the whole repository for your theme.
+Many of the custom themes have instructions for how to customize them for your own use. Most involve just copying the repository into your own website and editing all of the relevant content and configuration files. There are also some instructions on GitHub for customizing your themes by overriding specific files, but this seems to require knowing how to use Jekyll and understanding which files to change. If you're a noob like me, it's probably best to just download the whole repository for your theme and edit files as needed.
 
 ### Using your custom URL
-Under construction.
+You can use the github.io domain name that is automatically generated, but you can also re-direct the site to your own domain name. This is fairly easy, but gave me some trouble when I was setting it up. 
+
+As I understand it, you need your Domain Name System (DNS) provider and GitHub Pages to be pointing at each other. You might see somethings about how to set things up with your DNS provider in the documentation, but few specific details. I assume this is because different DNS providers have different methods of setting it up. If you went with Google, it's really easy!
+
+All you have to do is go to the "DNS" page on the sidebar, scroll down to "Custom resource records," and fill it out like the picture below. Be sure to use the same IP address, which points to GitHub's servers. I had a problem with using an outdated IP address that I found on another blog post, so refer to the [troubleshooting page](https://help.github.com/articles/troubleshooting-custom-domains/) if there's an error with that.
+
+![Domain setup](https://github.com/elipollock/elipollock.github.io/assets/img/project_post/domain_setup.png "Easy peasy") 
+
+Then, in the "Settings" under your GitHub repo, go to the section called "GitHub Pages". There should be a "Custom Domain" option, where you should put in something like www.elibpollock.com (which is my domain name). This should automatically create a file called CNAME in your main repo directory. If that's not there for whatever reason, you should create that file and put the domain name in there as well. In your options, be sure to also enable HTTPS, which is related to the level of security on your site. Otherwise, your browser won't trust your website and might try to block it!
 
 ### Editing your site
 If you want to edit a bunch of files or add pictures on your local computer, you can do so and then use the following commands (assuming you've set up a git repo for your website and have a git-enabled command window open):
@@ -48,7 +56,16 @@ git add . # This tells git to "stage" all the files you've changed
 git commit -m "insert message"  # Now you commit the changes to the local repo. The -m tag allows you to write a short message about what you changed in the commit.
 git push origin master  # This adds your changes to the version hosted by GitHub. In a minute or two, your site should update!
 ```
-You can also use the GitHub Desktop app if you have a fear of the command line. Or, you can directly edit the repo on GitHub!
+You can also use the GitHub Desktop app if you have a fear of the command line. Or, you can directly edit the repo on GitHub! This is probably the easiest option for making blog posts.
+
+### Customizing your theme
+This obviously depends on the theme that you decided to use, but there are a few general points worth noting for people with no experience in web development:
+- Be careful with the sizing of logo files or icon files. I had never heard of a favicon before working on this site, but it's the tiny little picture that appears in the tab when a browser goes to your website. This has to be saved to a .ico file, and the image needs to be a certain number of pixels. Pay attention to the default icon sizes, and make your own icons through a generator like https://www.favicon.cc/. 
+- The config.yml file is going to be very important. Make sure you edit all of the relevant information there.
+- Make sure you pick a theme that is well-documented and tells you how to customize it if you have no idea what you are doing. This may seem obvious but the lure of a cool theme can be strong.
 
 ### Local editing
-Under construction.
+It is possible to build your site on your local machine, and see changes at a localhost address without making the site go live. This is probably a very useful thing to be able to do, and if/when I figure it out I'll update this section. However, for now I don't have that workflow set up.
+
+## Conclusions
+I hope this post was useful to anyone who may have chanced across it. At the very least, it will serve to document some of what I learned in case I ever need to make another website.
