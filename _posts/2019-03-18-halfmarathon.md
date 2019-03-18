@@ -8,13 +8,14 @@ project: true
 comments: false
 ---
 
-In 2018, I had the goal of running 500 miles. I've been running on and off since 2012, and have done a few 5k races in that time. For a variety of reasons, I wanted to get a little more serious about running. I ended up achieving my total mile goal, and over the course of the year I ran the BAA 10k as well as the ![BAA Half Marathon](https://www.baa.org/races/baa-half-marathon). My time for the latter was 1:42:12, which I was very happy with given that I had never run a half marathon before.
+In 2018, I had the goal of running 500 miles. I've been running on and off since 2012, and have done a few 5k races in that time. For a variety of reasons, I wanted to get a little more serious about running. I ended up achieving my total mile goal, and over the course of the year I ran the BAA 10k as well as the [BAA Half Marathon](https://www.baa.org/races/baa-half-marathon). My time for the latter was 1:42:12, which I was very happy with given that I had never run a half marathon before.
 
-I really like the half marathon. It's challenging enough that it requires training and feels like an accomplishment, but it doesn't come with the same health risks of a full marathon (like short-term acute kidney damage). I've signed up for the ![Boston Run to Remember](https://www.bostonsruntoremember.org/) race, with the goal of breaking 100 minutes. It's now "training season," so I'll be posting some aspects of my training here. This isn't going to be a definitive guide to preparing, but it will at least be a place for me to share some things that I've learned about running.
+I really like the half marathon. It's challenging enough that it requires training and feels like an accomplishment, but it doesn't come with the same health risks of a full marathon (like short-term acute kidney damage). I've signed up for the [Boston Run to Remember](https://www.bostonsruntoremember.org/) race, with the goal of breaking 100 minutes. It's now "training season," so I'll be posting some aspects of my training here. This isn't going to be a definitive guide to preparing, but it will at least be a place for me to share some things that I've learned about running.
 
 ## Routes around Cambridge/Boston
 
-I've always been a map nerd, so I love creating running routes. I use the free tool from ![On The Go Map](https://onthegomap.com/#/create), which uses open-source map data. Since I live near Inman Square, most of my routes start and end there, but there are some that start and end from the gym at MIT where I sometimes work out.
+I've always been a map nerd, so I love creating running routes. I use the free tool from [On The Go Map](https://onthegomap.com/#/create), which uses open-source map data. Since I live near Inman Square, most of my routes start and end there, but there are some that start and end from the gym at MIT where I sometimes work out.
+
 
 ### The Cambridge Loop (7 miles)
 
