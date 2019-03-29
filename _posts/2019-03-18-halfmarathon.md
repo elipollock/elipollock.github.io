@@ -28,3 +28,33 @@ Nice run with a few hills on Cambridge Street, but mostly on the beautiful flat 
 Extends the 7 mile run to cross over to Boston, going down the Esplanade and then crossing back.
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://onthegomap.com/?m=r&amp;u=mi&amp;w%5B%5D=Routes+may+not+be+suitable+for+walking.&amp;c%5B%5D=Route+data+%C2%A92019+On+The+Go+Map%2C+OpenStreetMap+Contributors&amp;d=12703&amp;f=71b6397aa4&amp;n=1&amp;dm=1&amp;context=embed&amp;r2=oZqY8fx_nD3U1KHm41A0C1A7m2Ls53K1MP_5Lg5Ns5Hk41Q3O5s13K1GFW4Jw4Hg4Fy3Dg3Nk51CHs416BY35a1By27Y21M9y13g1h4b15w1DW3Fu3Ho4f1iAd1gA5e1Fe4Lw41IDi3Di31GJy4Lo5Hc474H0TO4C6O2y13ODW1t4g99IBKMOGIm1s1KM181E28f1m2HHZ1g2f2o475B3z2w5v2y53E6MHa1FW1Z1e2p1c39Ar1v1337Fe1x1d3Z3HFX2~1Z1L~3z1QX30BRZ4Tb215Pj1HNf1h1l1RZ19b8d11071r14j2ETE72B1b2B99J9J0T7d139AX11P5RGLg17G71F1d1FTBTBp1JZ1BP9x3n1X1Dr1N51532F1P7R7DFBH7L9930H1P1V0907072J9x1DTx1X2DDNVZ1n1Jl1Ld2n1b6Fr17PHn1BJz1v6p1v5Th3DX1Ph1JH4R0l15h1z3xEBTLTJBX1392b1IJR55550V050H1V7X1Z2x7Rd3Vt3P~2Np23b1Dp41H83i1L3Ft1Q3HaVdF847T393D335557b6lIp1t4h4bD1R0B0B173DFf1v1d5H~1Bl23r1Dv1f2n6Z2v6Lj29t1DX29n35P0h33f38j26T0b10l22H8z32x32d1m1t74T1B134J4B0L3759Qj1y1p2e1b1a1VQRKTCLAJs1~2Ur1OZ1MPa1d1MRELm1d2QZ1OX1STKLSNW1RW1NQHu2l1G7Q7q4f1e2DaEz1S387A0E3C3E0eGHE2C2E6U8y24e4EY40i3Jm3Z1u2b1w2l1u2r120s1n1Lp2SZ1a1d2u1l72h31r14l23d3Er34B2P4TAp18X1GEKGY2u1m1c1UQo1e1Y1Si2W2i1a1SOk2Y2m2a2MGs1k1Y3m24G6E44GIk2o1MAr160G2c12E1K3g11UQW2c1i2Q8S8a1CM8k1Gk2OCK8Gm1G821EMa1GUDs2Nq63k16I58BSJ3Je4021E3U9g27_1B_214Dw3De3Hk47a2Tu7D_21E9m2Fs35o1Pu53k1Js43e13a11AFu3Hg49i27y108By23W106Jk41O3I9W21Q"></iframe><br/><small><a href="https://onthegomap.com" style="color:#0000FF;text-align:left" target="_blank">On The Go Map</a></small>
+
+
+## Diet
+I don't really have a "training diet," as I try to eat healthy all the time. I'm fairly flexible when it comes to what I eat, and as a grad student I'm always on the lookout for free food, but I usually stick to the following when I'm feeding myself. Maybe the most idiosyncratic thing about what I eat is the fact that I'd what you might call a humaneitarian. This means I try to only eat meat if I know that it comes from an animal that was humanely raised, ideally in an environmentally sustainable way. As a result, I pay more for meat but tend to eat less of it.
+
+### Breakfast
+I eat pretty much the same breakfast every day. Occasionally I'll do something crazy like buy a bunch of bagels to eat for the week, but my "standard fare" is below. For breakfast, I like to get a decent amount of protein and fat.
+- Fage Plain 5% Greek Yogurt
+- Frozen mixed berries
+- Ground flax
+- Mixed raw or dry-roasted nuts (cashews, almonds, walnuts, Brazil nuts, pecans, etc)
+- Dried coconut flakes
+- A cup of coffee brewed from freshly-ground, high-quality beans.
+
+### Lunch
+This depends on the week, as I do like to have at least a little variety in what I eat. I typically don't eat meat for lunch anymore, mainly for environmental reasons. The general formula is as follows:
+- Some kind of pulse (lentils, beans, etc) or a high-protein grain (bulgur wheat, quinoa, etc)
+- Various roasted or sauteed vegetables (onions, peppers, squash, brussel sprouts, eggplant, tomato, etc)
+- Some cheese and carrots. This is something I used to have as a kid and have internalized as a Good Thing To Have For Lunch.
+- Chips. I love the Terra blue potato chips that are served on JetBlue planes and can get big bags of them at my supermarket. But I'll take whatever. I tend towards less-processed chips, avoiding things that have sugar snuck into them.
+
+I also like to have a bit of dark chocolate with an espresso during the afternoon. The darker the better.
+
+### Dinner
+Much like with breakfast, I don't like to think too much about what I'm having for dinner, beyond picking different types of meat.
+- Meat, sustainably and ethically sourced (local, grass-fed, free-range, and all that good stuff)
+- An egg or two if I've exercised that day.
+- Salad greens, with your choice of dressing (simple olive oil and vinegar is ideal). Maybe with olives?
+- Corn chips with melted cheese on them (i.e. very basic nachos). Can be substituted with some other carb/cheese combo.
+- Dessert: an apple with peanut butter
