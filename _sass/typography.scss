@@ -131,7 +131,12 @@ li .highlight pre {
 // table
 table {
 	width: 100%;
-    border: 1px solid $color_gray;
+}
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
 }
 
 // notice
