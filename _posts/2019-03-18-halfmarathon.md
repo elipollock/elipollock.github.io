@@ -43,10 +43,10 @@ Including a foray into Back Bay along the Commonwealth Ave Mall to the statue of
 
 ## Running Schedule
 
-Here is a table showing my schedule for running. I only gave myself 11 weeks to train this time; 12 probably would have been better but I fractured my elbow and was then traveling. This schedule is meant to be mostly a guideline, as there's always a chance that somethingg will come up that requires me to skip or shorten a run. The main idea is to run 4 times a week, include some kind of speed training on one of those days, have one "long run" over the weekend, and do at least two 13.1-mile runs. The "speed training" consists of running 4 1-mile intervals at a fast pace. I also like to sometimes include short sprints at the end of a run when it's nice enough to go outside
+Here is a table showing my schedule for running. I only gave myself 11 weeks to train this time; 12 probably would have been better but I fractured my elbow and was then traveling. This schedule is meant to be mostly a guideline, as there's always a chance that somethingg will come up that requires me to delay, shorten, or even skip a run. The main idea is to run 4 times a week, include some kind of speed training on one of those days, have one "long run" over the weekend, and do at least two 13.1-mile runs. The "speed training" consists of running 4 1-mile intervals at a fast pace. These are marked as "4x1" in the table below. Otherwise, numbers indicate how long a run on that day should be.
 
 | Week | M | T | W   | T | F | S       | S                |
-|------|---|---|-----|---|---|---------|------------------|
+|------|:---:|:---:|:-----:|:---:|:---:|:---------:|:------------------:|
 | 1    |   | 4 |     | 4 |   | 7       |                  |
 | 2    | 4 |   | 4x1 |   | 4 |         | 7                |
 | 3    |   | 4 | 4x1 |   | 4 |         | 8                |
