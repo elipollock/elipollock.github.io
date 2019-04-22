@@ -16,6 +16,12 @@ I really like the half marathon. It's challenging enough that it requires traini
 
 I've always been a map nerd, so I love creating running routes. I use the free tool from [On The Go Map](https://onthegomap.com/#/create), which uses open-source map data. Since I live near Inman Square, most of my routes start and end there, but there are some that start and end from the gym at MIT where I sometimes work out.
 
+### 5-miler, from MIT
+
+When I go to the gym and need a 5-mile run, this is a great route that goes around the Charles River basin, and around Boston Common and the Public Gardens.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://onthegomap.com/?m=r&amp;u=mi&amp;w%5B%5D=Routes+may+not+be+suitable+for+walking.&amp;c%5B%5D=Route+data+%C2%A92019+On+The+Go+Map%2C+OpenStreetMap+Contributors&amp;d=7925&amp;f=1fbf0f83c8&amp;n=1&amp;dm=1&amp;context=embed&amp;r2=qpnY8pxynD65w15a1DM4Kq14g1Ca11i161Ac18SQW388s1q1e1i20EM41Y1Ds5Ds5Fg65q13Y1Dc3911CBg2BY23Q1A1M3s11MZ1yE3g10818b4cu152H2D1B1F15e11IF2b7If48f18L6d4g212t4m2~1Y1l2i1326MBCFE9C14DU848AS_3Mc3Ao1g1Y6a1_4W1a5W1u3g1o4Sc21G12r4Y556Pe1Rj1F9B9Z1VTb1TR99JJv1p1X1Jn2n1r3d2j2Z1~1Nv3z1~179P034X24x1Ip82J8J89A9QFc1Jk9Z59b15N5H3H3DB6B13515L4X11PB73B9B4h1IVE59VPZ1v1B9NBFD9H010T5DAFAT2Z14Rg1JAVu1P8482C0EF2Fk1L268AE44141694D1505g2b10B8BA53H0P8JC5g14UFi2VW1BG3Br12F2D13ADAD5H3Jw1V63MF2533VO0222I9QPEJGV8T6T0b13V11126o1430d11517377Z11f10L29Gh1698BQf167k1b289NVZ1n1Hh113Ld2n1b6Fr17PHn1BJz1v6n2b9DX1Ph1JH4R0l15h1z3xEBTLTJBX1392b1IJR55550V050H1V7X1Z2x7Rd3Vt3P~2Np23b1Dp41H83i1L3Ft1Q3Hs9t4kLlA8444800A2W1_9kTAY1Ei1A58385a1N83G96Kw1Z1y1b1G7y5l35F43E7Db16D17G2I0"></iframe><br/><small><a href="https://onthegomap.com" style="color:#0000FF;text-align:left" target="_blank">On The Go Map</a></small>
+
 
 ### 7-miler
 
