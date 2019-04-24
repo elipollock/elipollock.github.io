@@ -65,6 +65,10 @@ Here is a table showing my schedule for running. I only gave myself 11 weeks to 
 | 10   | 5 |   | 4x1 |   | 5 |         | 10               |
 | 11   |   | 4 |     | 4 |   | 3, easy | 13.1 (Race Day!) |
 
+## Shoes
+I'm generally a fan of "minimalist" running shoes that don't have a lot of drop between the back and front of the foot. For a while I had a pair of Merrells (I think the Trail Glove), but before my most recent training cycle I thought I'd get some new shoes. I ended up buying a pair of Altra Escalantes after trying them on in a store, and have not regretted that decision at all. For one thing, the toe box is larger than most other shoes, and the shoe material over the toes is flexible enough to allow the toes to spread out. This gives a nice "natural" feel when running. Additionally, although they are still a minimalist shoe, there is some cushioning in the sole that feels really nice. They aren't necessarily good all-purpose athletic shoes, but for running they feel incredible.
+
+
 ## Diet
 I don't really have a "training diet," as I try to eat healthy all the time. I'm fairly flexible when it comes to what I eat, and as a grad student I'm always on the lookout for free food, but I usually stick to the following when I'm feeding myself. Maybe the most idiosyncratic thing about what I eat is the fact that I'd what you might call a humaneitarian. This means I try to only eat meat if I know that it comes from an animal that was humanely raised, ideally in an environmentally sustainable way. As a result, I pay more for meat but tend to eat less of it.
 
