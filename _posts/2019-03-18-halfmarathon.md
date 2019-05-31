@@ -100,3 +100,11 @@ Much like with breakfast, I don't like to think too much about what I'm having f
 - Salad greens, with your choice of dressing (simple olive oil and vinegar is ideal). Maybe with olives?
 - Corn chips with melted cheese on them (i.e. very basic nachos). Can be substituted with some other carb/cheese combo.
 - Dessert: an apple with peanut butter.
+
+## Tech + gadgets
+
+Later in the training cycle, I bought a Garmin Forerunner 35 to better keep track of my pace during runs. I also connected it to [Strava](https://www.strava.com/athletes/41474307) to post my running routes.
+
+## Results!
+
+I had a great time training for and running this race. I did two full-length training runs. On the second, I hit my timing goal of running 13.1 miles in less than 100 minutes (I did it in 98 minutes). My right foot was pretty sore for a few days after this, so I took it easy on running for the remaining 2 weeks before the official race. And on race day, I decided to go a little slower than I could have gone to run with my brother. We finished together with a time just over 1:50. Race day itself was beautiful, with sunny weather and temperatures that weren't too high (at least in the early hours of the morning when we were running).
