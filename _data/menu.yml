@@ -1,0 +1,27 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    url: /about
+    entries:
+      - title: Hi, I'm Eli. I have a PhD in computational neuroscience from MIT, and more recent experience as a startup co-founder.
+      - title: I'm currently exploring new opportunities, especially in AI research. Preferably remote or local to Boston, but I'd be willing to consider relocating.
+  - title: links and other info
+    entries:
+      - title: linkedin
+        url: https://www.linkedin.com/in/eli-pollock-2135ab64/
+      - title: twitter
+        url: https://x.com/elibpollock
+      - title: github 
+        url: https://github.com/elipollock
+      - title: google scholar
+        url: https://scholar.google.com/citations?user=HKlrfsgAAAAJ
+      - title: CV
+        url: Eli_Pollock_CV.pdf
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
